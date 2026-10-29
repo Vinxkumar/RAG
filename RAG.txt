@@ -1,0 +1,3 @@
+What is RAG?
+
+RAG is a AI frmawork which uses Knowledge Data bases to Search thogout and get the inof neded by the LLM. and make sure it not overoaded with bigger prompts
